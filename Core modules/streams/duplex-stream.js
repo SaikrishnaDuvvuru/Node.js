@@ -59,7 +59,7 @@ client.on('error', (err) => {
 });
 
 
-
+// Duplex Streams means that the stream is both readable and writable.
 // TCP is one of the real-time examples for duplex streams
 
 // TCP is a reliable, connection-oriented, and full-duplex transport layer protocol. 

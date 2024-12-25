@@ -56,3 +56,7 @@ const server = http.createServer((req, res) => {
 server.listen(3000, () => {
     console.log('Server is listening on port 3000');
 });
+
+
+
+// Transform streams are a type of duplex stream that allow you to modify or transform the data as it passes through the stream.
