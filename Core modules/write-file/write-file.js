@@ -5,7 +5,7 @@ const path = require('path');
 // Writing file asynchronously
 
 const filePath = path.join(__dirname, '..', 'sample-data.txt');  // '..' goes one level up from 'readfile'
-// _dirname is the directory name of the current module
+// __dirname is the directory name of the current module
 
 console.log('Resolved file path:', filePath);  // Log the full path for debugging
 
