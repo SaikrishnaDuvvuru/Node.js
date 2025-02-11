@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/SaikrishnaDuvvuru/Node.js/issues"
   },
-  "homepage": "https://github.com/SaikrishnaDuvvuru/Node.js#readme"
+  "homepage": "https://github.com/SaikrishnaDuvvuru/Node.js#readme",
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
 }
